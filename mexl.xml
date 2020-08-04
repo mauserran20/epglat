@@ -1,0 +1,121 @@
+# <?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Azteca 7  (México)">
+    <display-name lang="es">Canal Azteca 7  (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Azteca Uno">
+    <display-name lang="es">Canal Azteca Uno</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 5 de México (XHGC)">
+    <display-name lang="es">Canal 5 de México (XHGC)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/5_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <display-name lang="es">Canal 2 de México (Canal Las Estrellas - XEW) </display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Unicable (México)">
+    <display-name lang="es">Canal Unicable (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/unicable-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Unicanal">
+    <display-name lang="es">Canal Unicanal</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/unicanal-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Warner TV (México)">
+    <display-name lang="es">Canal Warner TV (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Foro TV">
+    <display-name lang="es">Canal Foro TV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal SyFy">
+    <display-name lang="es">Canal SyFy</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/syfy-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TCM (Turner Classic Movies)">
+    <display-name lang="es">Canal TCM (Turner Classic Movies)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal De Película">
+    <display-name lang="es">Canal De Película</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="De Película Plus">
+    <display-name lang="es">De Película Plus</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal History (México) ">
+    <display-name lang="es">Canal History (México) </display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Home and Health (México)">
+    <display-name lang="es">Canal Discovery Home &amp; Health (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Distrito Comedia">
+    <display-name lang="es">Canal Distrito Comedia</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinema Dinamita">
+    <display-name lang="es">Canal Cinema Dinamita</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinema_dinamita-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ID (Investigation Discovery) México">
+    <display-name lang="es">Canal Investigation Discovery) México</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="investigation_discovery_hd_mexico">
+    <display-name lang="es">Canal ID México</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_hd_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Univision TLNovelas">
+    <display-name lang="es">Canal Univision TLNovelas</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/univision_tlnovelas-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Univision">
+    <display-name lang="es">Univision</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="UNIVERSAL CHANNEL">
+    <display-name lang="es">UNIVERSAL CHANNEL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/e44eaed1cad5e7b02405f201dd881848.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CLARO CINEMA">
+    <display-name lang="es">CLARO CINEMA</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/0c015b7501a39179c427487545ec3d4a.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="PARAMOUNT">
+    <display-name lang="es">PARAMOUNT</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/278b181d0e7cf53a993f55a189d75c48.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+<channel id="Canal HBO (México)">
+    <display-name lang="es">Canal HBO (México) </display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
